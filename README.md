@@ -1,5 +1,10 @@
-<h1 align="center">Hi there, I'm Samir Raihan! 👋</h1>
-<h3 align="center">Senior Software Engineer | Backend-Focused Laravel & Vue.js Expert</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Samir%20Raihan&fontSize=80&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Expert&descAlignY=55&descAlign=62" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Backend-Focused+Laravel+Expert;Vue.js+%26+Nuxt.js+Developer;Architecting+Scalable+REST+APIs;Building+SaaS+Solutions" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/samirraihan" target="_blank">
@@ -77,3 +82,7 @@ I specialize in building secure, scalable backends, designing RESTful APIs, opti
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samirraihan&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+</div>
