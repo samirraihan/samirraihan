@@ -76,7 +76,7 @@ I specialize in building secure, scalable backends, designing RESTful APIs, opti
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samirraihan&show_icons=true&theme=radical&hide_border=true" alt="Samir's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirraihan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirraihan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" height="200px"/>
 </p>
 
 <p align="center">
